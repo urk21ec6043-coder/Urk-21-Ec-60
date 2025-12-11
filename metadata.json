@@ -1,0 +1,8 @@
+{
+  "name": "VibeSync",
+  "description": "A FaceTime-style video calling app with synchronized music listening and Gemini-powered AI DJ intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
